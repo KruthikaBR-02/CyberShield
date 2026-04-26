@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files (VERY IMPORTANT)
+.env
+frontend/.env
+backend/.env
