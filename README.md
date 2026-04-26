@@ -34,7 +34,8 @@ Open: http://localhost:3000
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Screenshot](https://via.placeholder.com/800x400?text=Login+Page)
+![Login Page](https://github.com/user-attachments/assets/61a3bc5a-4cd0-4729-bd5a-c439f8503420)
+
 
 ### 📂 File Upload & Analysis
 ![Upload Screenshot](https://via.placeholder.com/800x400?text=File+Analysis)
